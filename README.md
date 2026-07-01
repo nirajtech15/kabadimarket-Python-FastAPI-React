@@ -99,23 +99,49 @@ The project demonstrates modern software engineering practices including RESTful
 
 ---
 
-# 📸 Application Screenshots
 
-> **Screenshots will be added soon.**
+## 📸 Screenshots
 
-| Home | Rates |
-|------|-------|
-| Coming Soon | Coming Soon |
+<table align="center">
+<tr>
 
-| Booking | Admin Dashboard |
-|----------|-----------------|
-| Coming Soon | Coming Soon |
+<td align="center">
+<img src="./docs/home.png" width="300"/><br><br>
+<b>🏠 Home</b>
+</td>
 
-| Login |
-|-------|
-| Coming Soon |
+<td align="center">
+<img src="./docs/rates.png" width="300"/><br><br>
+<b>💰 Pricing Plans</b>
+</td>
 
----
+<td align="center">
+<img src="./docs/booking.png" width="300"/><br><br>
+<b>📅 Booking</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="./docs/admin-dashboard.png" width="300"/><br><br>
+<b>📊 Admin Dashboard</b>
+</td>
+
+<td align="center">
+<img src="./docs/booking-admin.png" width="300"/><br><br>
+<b>🔐 Booking</b>
+</td>
+
+<td align="center">
+<img src="./docs/services.png" width="300"/><br><br>
+<b>👤 Services</b>
+</td>
+
+</tr>
+
+</table>
 
 # 🏗️ System Architecture
 
